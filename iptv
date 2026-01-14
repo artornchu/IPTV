@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://example.com/epg.xml"
+#EXTM3U x-tvg-url="https://xn--1688-ugovb3ezcvf.life/"
 
 #EXTINF:-1 tvg-id="ch1" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="Sport",monomax 2
 #EXTVLCOPT:http-referer=https://xn--1688-ugovb3ezcvf.life/
