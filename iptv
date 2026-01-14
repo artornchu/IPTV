@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="http://example.com/epg.xml"
+
+#EXTINF:-1 tvg-id="ch1" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="Sport",monomax 2
+https://backtrack-illusion.bitemyshinymetalass.org:9307/v5/aRGRt7LeD0kkN3CUaZkBJQ/1768393370/e73ddbbfd11488a45648bef778bcafde/q71z29P82DKYsofTDK7qkQ/1768404050/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ch2" tvg-logo="https://cdn-icons-png.flaticon.com/512/2991/2991606.png" group-title="Entertainment",ช่องหนังสนุก
+https://example.com/live/movie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch3" tvg-logo="https://cdn-icons-png.flaticon.com/512/2537/2537877.png" group-title="Sports",ช่องกีฬา 24 ชม.
+https://example.com/live/sports/playlist.m3u8
